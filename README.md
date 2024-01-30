@@ -8,3 +8,7 @@ This version of the app targets the helpdesk portal that I have been working in,
 The app works by applying a filter property to the HTML Document object, and then applying an additional filter to uninvert the color of certain elements, such as photos. 
 
 In its current state the filter properties are best suited for the way the monitors at work display their targeted website, but I have been considering implementing a front end element that would allow end users to adjust certain aspects of the filter property in order to tweak the appearance and readability to their preferences.
+
+Deployed versions of this app include:
+[Smartsheets Extension - DarkSheet](https://chromewebstore.google.com/detail/darksheet/banmhmlpididlolbalhnngfhgcahefdb)
+
